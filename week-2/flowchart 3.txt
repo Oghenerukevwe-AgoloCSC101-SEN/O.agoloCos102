@@ -1,0 +1,14 @@
+✅ Flowchart Description:
+Start
+
+Input name1, age1
+
+Input name2, age2
+
+Display original ages
+
+Swap ages
+
+Display swapped ages
+
+End

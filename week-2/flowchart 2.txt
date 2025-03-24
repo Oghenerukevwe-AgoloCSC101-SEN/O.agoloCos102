@@ -1,0 +1,6 @@
+✅ Flowchart Description:
+Start
+
+Wake Up → Brush Teeth → Shower → Get Dressed → Eat Breakfast → Go to School/Work
+
+End

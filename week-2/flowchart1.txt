@@ -1,0 +1,20 @@
+✅ Flowchart Description:
+Start
+
+Input items and prices
+
+Sum total
+
+Input payment
+
+If payment >= total:
+
+Calculate change
+
+Display change
+
+Else:
+
+Display "Insufficient payment"
+
+End

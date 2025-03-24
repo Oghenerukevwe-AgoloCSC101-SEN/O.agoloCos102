@@ -1,0 +1,89 @@
+(a) Simple Interest Flowchart
+Start
+
+Input: Principal (P), Rate of Interest (R), Time (T)
+
+Process: Calculate Simple Interest using the formula:
+
+𝑆
+𝐼
+=
+𝑃
+×
+𝑅
+×
+𝑇
+100
+SI= 
+100
+P×R×T
+​
+ 
+Output: Display Simple Interest (SI)
+
+End
+
+
+b) Compound Interest Flowchart
+Start
+
+Input: Principal (P), Rate of Interest (R), Time (T)
+
+Process: Calculate Compound Interest using the formula:
+
+𝐶
+𝐼
+=
+𝑃
+×
+(
+1
++
+𝑅
+100
+)
+𝑇
+−
+𝑃
+CI=P×(1+ 
+100
+R
+​
+ ) 
+T
+ −P
+Output: Display Compound Interest (CI)
+
+End
+
+
+) Annuity Plan Flowchart
+Start
+
+Input: Periodic Payment (P), Rate of Interest (R), Time (T)
+
+Process: Calculate Annuity Plan using the formula:
+
+𝐴
+=
+𝑃
+×
+(
+1
++
+𝑅
+)
+𝑇
+−
+1
+𝑅
+A=P× 
+R
+(1+R) 
+T
+ −1
+​
+ 
+Output: Display Annuity Amount (A)
+
+End
